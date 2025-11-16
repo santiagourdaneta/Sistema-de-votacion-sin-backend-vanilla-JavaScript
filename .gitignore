@@ -1,0 +1,12 @@
+# Dependencias (si se usan herramientas de compilación/bundlers)
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Logs y Archivos temporales
+*.log
+
+# Archivos de caché del OS y Editores
+.DS_Store
+Thumbs.db
+.vscode/
